@@ -82,7 +82,7 @@ Feature Owner — Backend Tickets.
 
 ### Implementación actual
 - VS Code (ventana dedicada + rama propia)
-- Modelo: **Claude Opus 4.5** (temporal)
+- Modelo: **Claude Opus 4.5**
 
 ---
 
